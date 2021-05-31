@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.Scanner;
-import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public class Registry{

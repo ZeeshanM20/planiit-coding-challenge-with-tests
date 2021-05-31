@@ -9,7 +9,7 @@ git clone https://github.com/ZeeshanM20/planiit-coding-challenge-with-tests.git
 ```
 Open the project into eclipse or a similar IDE for java.
 
-Change the run configuration to add the path to your list file in the arguments.
+Change the run configuration to run as a java program and add the path to your list file in the arguments.
 
 Run the program and tests.
 

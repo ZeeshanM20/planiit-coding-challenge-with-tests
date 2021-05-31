@@ -36,7 +36,6 @@ public class PersonObjectTest {
 		
 		Person person = new Person(name, dob, nationality);
 		
-		System.out.println(person.getName());
 		assertTrue(person.getDOB().equals(dob));
 	}
 	
@@ -51,7 +50,6 @@ public class PersonObjectTest {
 		
 		Person person = new Person(name, dob, nationality);
 		
-		System.out.println(person.getName());
 		assertTrue(person.getNationality().equals(nationality));
 	}
 }
